@@ -34,6 +34,7 @@ console.log(anotherNum);
 
 // console.log( ret() );
 
+
 const arrowFunc = (x) => x;
 
 console.log( arrowFunc(500) );   //short arrow func
